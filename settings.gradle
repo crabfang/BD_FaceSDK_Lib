@@ -1,0 +1,3 @@
+rootProject.name = "BD_FaceSDK_Lib"
+include ':app'
+include ':mylibrary'
